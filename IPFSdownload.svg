@@ -45,9 +45,9 @@
             <text id="DOWNLOAD" font-family="RobotoMono-Bold, Roboto Mono" font-size="20" font-weight="bold" fill="#FFFFFF">
                 <tspan x="161.984375" y="36">DOWNLOAD</tspan>
             </text>
-            <g id="Group-2" transform="translate(262.000000, 24.000000)">
-                <path d="M1.20710678,6.5 L12.7928932,6.5 L7,0.707106781 L1.20710678,6.5 Z" id="arrow" stroke="#FFFFFF" transform="translate(7.000000, 3.500000) rotate(-180.000000) translate(-7.000000, -3.500000) "></path>
-                <rect id="Rectangle" fill="#FFFFFF" x="0" y="10" width="14" height="1"></rect>
+            <g id="Group-2" transform="translate(262.000000, 24.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" x="0" y="10" width="14" height="1"></rect>
+                <polygon id="Path-2" points="0 0 7 7 14 0 12.5 0 7 5.5 1.5 0"></polygon>
             </g>
             <g id="logo/excalibur1" transform="translate(102.000000, 55.000000)" font-family="RobotoMono-Bold, Roboto Mono" font-weight="bold">
                 <g id="logo" transform="translate(-1.400000, -2.400000)">
