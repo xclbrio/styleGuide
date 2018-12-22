@@ -50,8 +50,8 @@
             <path d="M488,104.72 C488.666667,104.64 489.333333,104.4 490,104 L487.5,109 L485,104 C485.666667,104.4 486.333333,104.64 487,104.72 L487,80 L488,80 L488,104.72 Z" id="Combined-Shape-Copy-3" fill="#121212" transform="translate(487.500000, 94.500000) rotate(-180.000000) translate(-487.500000, -94.500000) "></path>
             <g id="Group-7">
                 <rect id="Rectangle-7" fill="#CECECE" x="0" y="0" width="549" height="80"></rect>
-                <text id="Decentralize-Liquidy" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
-                    <tspan x="253.884766" y="45">Decentralize Liquidy Layer</tspan>
+                <text id="Decentralized-Liquid" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="250.28418" y="44">Decentralized Liquidy Layer</tspan>
                 </text>
             </g>
             <g id="Group-5" transform="translate(165.000000, 198.000000)">
@@ -61,8 +61,8 @@
                 </text>
             </g>
             <text id="Orders-moving-betwee" font-family="RobotoMono-Bold, Roboto Mono" font-size="10" font-weight="bold" fill="#121212">
-                <tspan x="25.4936523" y="37">Orders moving</tspan>
-                <tspan x="28.4941406" y="48">between DEXs</tspan>
+                <tspan x="25.4936523" y="38">Orders moving</tspan>
+                <tspan x="28.4941406" y="49">between DEXs</tspan>
             </text>
             <text id="Execute-and-generate" font-family="RobotoMono-Bold, Roboto Mono" font-size="10" font-weight="bold" fill="#121212">
                 <tspan x="31.4946289" y="137">Execute and </tspan>
