@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="421px" height="530px" viewBox="0 0 421 530" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>exchangeAlgorithm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,184 L377,184 C381.418278,184 385,187.581722 385,192 L385,460 C385,464.418278 381.418278,468 377,468 L8,468 C3.581722,468 5.41083001e-16,464.418278 0,460 L0,192 C-5.41083001e-16,187.581722 3.581722,184 8,184 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="385" height="284" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="exchangeAlgorithm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(18.000000, 13.000000)">
+            <g id="Group-3">
+                <rect id="Rectangle-14" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="382" height="47" rx="8"></rect>
+                <text id="Network-Layer" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="146.192383" y="29">Network Layer</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(46.000000, 216.000000)">
+                <rect id="Rectangle-Copy" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Maker_" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" line-spacing="17" fill="#121212">
+                    <tspan x="28.3964844" y="40">Maker_</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(239.000000, 216.000000)">
+                <rect id="Rectangle" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Taker_" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" line-spacing="17" fill="#121212">
+                    <tspan x="28.3964844" y="40">Taker_</tspan>
+                </text>
+            </g>
+            <g id="Group-19-Copy-3" transform="translate(69.000000, 245.000000)"></g>
+            <g id="Group-19-Copy" transform="translate(66.000000, 132.000000)"></g>
+            <g id="Group-19-Copy-4" transform="translate(278.000000, 135.000000)"></g>
+            <g id="Group-6" transform="translate(158.000000, 276.000000)">
+                <rect id="Rectangle-15" stroke="#000000" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="67" height="97" rx="8"></rect>
+                <text id="&lt;Ex_&gt;" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="17.4970703" y="54">&lt;Ex_&gt;</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(46.000000, 366.000000)">
+                <rect id="Rectangle-16" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Token-A" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="25.2958984" y="39">Token A</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(239.000000, 366.000000)">
+                <rect id="Rectangle-16-Copy" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Token-B" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="25.2958984" y="39">Token B</tspan>
+                </text>
+            </g>
+            <text id="Ethereum-Blockchain" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#121212">
+                <tspan x="124.588867" y="494">Ethereum Blockchain</tspan>
+            </text>
+            <use id="Rectangle-17" stroke="#121212" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="5,10" xlink:href="#path-1"></use>
+            <path d="M97,80.72 C97.6666667,80.64 98.3333333,80.4 99,80 L96.5,85 L94,80 C94.6666667,80.4 95.3333333,80.64 96,80.72 L96,50 L97,50 L97,80.72 Z" id="Combined-Shape" fill="#121212" transform="translate(96.500000, 67.500000) rotate(-180.000000) translate(-96.500000, -67.500000) "></path>
+            <path d="M290,80.72 C290.666667,80.64 291.333333,80.4 292,80 L289.5,85 L287,80 C287.666667,80.4 288.333333,80.64 289,80.72 L289,50 L290,50 L290,80.72 Z" id="Combined-Shape-Copy" fill="#121212" transform="translate(289.500000, 67.500000) rotate(-360.000000) translate(-289.500000, -67.500000) "></path>
+            <path d="M290,211.72 C290.666667,211.64 291.333333,211.4 292,211 L289.5,216 L287,211 C287.666667,211.4 288.333333,211.64 289,211.72 L289,155 L290,155 L290,211.72 Z" id="Combined-Shape-Copy-2" fill="#121212" transform="translate(289.500000, 185.500000) rotate(-360.000000) translate(-289.500000, -185.500000) "></path>
+            <path d="M290,361.72 C290.666667,361.64 291.333333,361.4 292,361 L289.5,366 L287,361 C287.666667,361.4 288.333333,361.64 289,361.72 L289,286 L290,286 L290,361.72 Z" id="Combined-Shape-Copy-3" fill="#121212" transform="translate(289.500000, 326.000000) rotate(-360.000000) translate(-289.500000, -326.000000) "></path>
+            <path d="M97,361.72 C97.6666667,361.64 98.3333333,361.4 99,361 L96.5,366 L94,361 C94.6666667,361.4 95.3333333,361.64 96,361.72 L96,286 L97,286 L97,361.72 Z" id="Combined-Shape-Copy-8" fill="#121212" transform="translate(96.500000, 326.000000) rotate(-360.000000) translate(-96.500000, -326.000000) "></path>
+            <path d="M259,351.72 C259.666667,351.64 260.333333,351.4 261,351 L258.5,356 L256,351 C256.666667,351.4 257.333333,351.64 258,351.72 L258,295 L259,295 L259,351.72 Z" id="Combined-Shape-Copy-4" fill="#121212" transform="translate(258.500000, 325.500000) rotate(-270.000000) translate(-258.500000, -325.500000) "></path>
+            <path d="M177,427.22 C177.666667,427.14 178.333333,426.9 179,426.5 L176.5,431.5 L174,426.5 C174.666667,426.9 175.333333,427.14 176,427.22 L176,370.5 L177,370.5 L177,427.22 Z" id="Combined-Shape-Copy-5" fill="#121212" transform="translate(176.500000, 401.000000) rotate(-270.000000) translate(-176.500000, -401.000000) "></path>
+            <path d="M234.72,401.5 L178,401.5 L178,400.5 L234.72,400.5 C234.64,399.833333 234.4,399.166667 234,398.5 L239,401 L234,403.5 C234.4,402.833333 234.64,402.166667 234.72,401.5 Z" id="Combined-Shape-Copy-6" fill="#121212"></path>
+            <polygon id="Combined-Shape-Copy-7" fill="#121212" points="194 376 194 401 193 401 193 376"></polygon>
+            <g id="Group-4" transform="translate(46.000000, 85.000000)">
+                <rect id="Rectangle-18" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Maker_" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#121212">
+                    <tspan x="28.3964844" y="40">Maker_</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(239.000000, 85.000000)">
+                <rect id="Rectangle-18-Copy" stroke="#121212" stroke-width="3" fill-opacity="0.15" fill="#FFFFFF" x="1.5" y="1.5" width="97" height="67"></rect>
+                <text id="Taker_" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#121212">
+                    <tspan x="28.3964844" y="40">Taker_</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
